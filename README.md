@@ -1,31 +1,31 @@
-# 🗺️ Algeria Pathfinding Simulator
+#  Algeria Pathfinding Simulator
 
 > Interactive visualization of **BFS**, **Dijkstra** and **A\*** on Algeria's real 48-wilaya road network — built with Unity 2022.3 LTS & C#
 
 ---
 
-## 📸 Preview
+##  Preview
 
 ![screenshot](images/preview.png)
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature | Description |
 |---|---|
-| 🗺️ **Real Map** | 48 wilayas with real road distances |
-| 🔵 **Step Animation** | Watch each algorithm explore node by node |
-| ⚡ **Compare Mode** | Run all 3 algorithms side by side with bar charts |
-| 🌳 **Search Tree** | Live visualization of the search tree per depth level |
-| 📚 **Theory Panel** | Built-in explanation of BFS, Dijkstra and A\* |
-| 🧩 **Road Puzzle** | Draw your own path and compete against Dijkstra |
-| 🚧 **Blocked Roads** | Navigate with randomly blocked routes |
-| 📋 **History** | Persistent JSON history of all searches |
+|  **Real Map** | 48 wilayas with real road distances |
+|  **Step Animation** | Watch each algorithm explore node by node |
+|  **Compare Mode** | Run all 3 algorithms side by side with bar charts |
+|  **Search Tree** | Live visualization of the search tree per depth level |
+|  **Theory Panel** | Built-in explanation of BFS, Dijkstra and A\* |
+|  **Road Puzzle** | Draw your own path and compete against Dijkstra |
+|  **Blocked Roads** | Navigate with randomly blocked routes |
+|  **History** | Persistent JSON history of all searches |
 
 ---
 
-## 🎬 Demo
+##  Demo
 
 | Simulation | Compare | Search Tree |
 |---|---|---|
@@ -33,7 +33,7 @@
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Unity Hub
@@ -53,7 +53,7 @@
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 AlgeriaFinal/
@@ -85,7 +85,7 @@ AlgeriaFinal/
 
 ---
 
-## 🧠 Algorithms
+##  Algorithms
 
 ### BFS — Breadth-First Search
 - Explores level by level using a Queue (FIFO)
@@ -104,7 +104,7 @@ AlgeriaFinal/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Engine**: Unity 2022.3.62f3 LTS
 - **Language**: C# / .NET Standard 2.1
@@ -115,7 +115,7 @@ AlgeriaFinal/
 
 ---
 
-## 📊 Project Stats
+##  Project Stats
 
 - **19** C# scripts
 - **~280 KB** source code
@@ -124,6 +124,6 @@ AlgeriaFinal/
 
 ---
 
-## 📄 License
+##  License
 
 This project is for academic purposes.
