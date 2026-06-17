@@ -63,7 +63,7 @@ AlgeriaFinal/
         │   ├── SimulatorController.cs   # Main orchestrator
         │   ├── Algorithms.cs            # BFS, Dijkstra, A*
         │   ├── GraphMap.cs              # Map builder & renderer
-        │   ├── WilayaData.cs            # 48 wilayas + road distances
+        │   ├── WilayaData.cs            # 58 wilayas + road distances
         │   └── PathResult.cs            # Algorithm output
         ├── UI/
         │   ├── SimulatorUI.cs           # Main UI panels
