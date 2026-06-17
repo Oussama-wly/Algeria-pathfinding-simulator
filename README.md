@@ -14,7 +14,7 @@
 
 | Feature | Description |
 |---|---|
-|  **Real Map** | 48 wilayas with real road distances |
+|  **Real Map** | 58 wilayas with real road distances |
 |  **Step Animation** | Watch each algorithm explore node by node |
 |  **Compare Mode** | Run all 3 algorithms side by side with bar charts |
 |  **Search Tree** | Live visualization of the search tree per depth level |
